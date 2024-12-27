@@ -1,4 +1,24 @@
-# Analyse des Alkoholkonsums in Russland - 3706017 Julian Marquardt
+# BigDataProgramming Teil 1 (3706017)
+## Analyse des Alkoholkonsums in Russland
+### Projektstruktur
+```
+data/
+  └── alcohol_consumption_russia_17_23.csv
+
+output/
+  └── results.txt
+
+utils/
+  └── dataprocessing.py
+
+main.py
+README.md
+requirements.txt
+```
+
+## Ausführung des Codes
+1) In einer venv die Abhängigkeiten der requirements.txt installieren
+2) Die `main.py` ausführen
 
 ---
 **DISCLAIMER:**

@@ -16,7 +16,7 @@ def perform_analysis(spark, file_path):
     6. Calculates average consumption of different alcoholic beverages for pre-war and wartime periods
     7. Calculates average consumption of pure alcohol per year
     8. Calculates trends in consumption of pure alcohol from 2017 until 2023
-    9. Saves results to a .txt file in the 'Output' folder
+    9. Saves results to a .txt file in the 'output' folder
 
     Parameters:
     spark (SparkSession): The Spark session to use for data processing
@@ -29,7 +29,7 @@ def perform_analysis(spark, file_path):
     df = spark.read.csv(file_path, header=True, inferSchema=True)
 
     # Prepare output folder and file path
-    output_folder = "Output"
+    output_folder = "output"
     os.makedirs(output_folder, exist_ok=True)
     results_path = os.path.join(output_folder, "results.txt")
 
