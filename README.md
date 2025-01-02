@@ -55,7 +55,7 @@ nach Beginn des Russisch-Ukrainischen Krieges. Die Analyse umfasst:
 - Ergebnisse werden sowohl in der Konsole angezeigt als auch in einer Textdatei gespeichert (`Output/results.txt`)
 
 **Berechnung des reinen Alkoholkonsums:**
-- Der reine Alkoholgehalt der verschiedenen Getränke wird wie folgt berechnet:
+- Der reine Alkoholgehalt der verschiedenen Getränke wird wie folgt angenommen:
   - **Bier:** 5 %
   - **Wein:** 12 %
   - **Wodka:** 40 %
@@ -63,7 +63,7 @@ nach Beginn des Russisch-Ukrainischen Krieges. Die Analyse umfasst:
   - **Brandy:** 40 %
   - **Cider:** 5 %
   - **Liköre:** 20 %
-- Der Gesamtkonsum reinen Alkohols wird durch die Summe dieser berechneten Werte für jede Zeile ermittelt
+- Der Gesamtkonsum reinen Alkohols wird durch die Summe dieser angenommenen Werte für jede Zeile ermittelt
 
 ---
 
