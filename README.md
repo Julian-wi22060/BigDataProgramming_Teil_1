@@ -110,7 +110,7 @@ nach Beginn des Russisch-Ukrainischen Krieges. Die Analyse umfasst:
    - Dieser Anstieg deutet auf verändertes Konsumverhalten während der Kriegszeit hin.
 
 2. **Höchste Zunahmen nach Getränk:**
-   - **Liköre** zeigen die größte Steigerung (+91,84 %), was auf eine veränderte Präferenz oder Verfügbarkeit hindeuten könnte.
+   - **Liköre** zeigen die größte Steigerung **(+91,84 %)**, was auf eine veränderte Präferenz oder Verfügbarkeit hindeuten könnte.
    - Andere Kategorien wie **Schaumwein (+18,35 %)** und **Brandy (+17,33 %)** weisen ebenfalls erhebliche Zunahmen auf.
 
 3. **Jährliche Trends:**
